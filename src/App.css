@@ -1,0 +1,36 @@
+.ss {
+  border-radius: 20px;
+  margin-left: 35%;
+  margin-right: 35%;
+  height: 500px;
+  background-color: white;
+  max-height: 500px;
+}
+.int {
+  border-color: aliceblue;
+  width: 65%;
+  height: 30px;
+  margin-left: 20px;
+  border-bottom: 5px solid salmon;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.but {
+  color: violet;
+  font-size: 40px;
+  font-weight: 100;
+}
+.sp {
+  display: flex;
+  flex-direction: column;
+  max-height: 350px;
+  overflow-y: auto;
+  margin-top: 20px;
+}
+.spm {
+  display: flex;
+  padding-left: 20px;
+  justify-content: stretch;
+  background-color: bisque;
+  margin-top: 10px;
+}
